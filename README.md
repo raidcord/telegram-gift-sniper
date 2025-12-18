@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/sinrazed/telegram-gift-sniper">
+  <a href="https://github.com/raidcord/telegram-gift-sniper">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -14,14 +14,14 @@
   <p align="center">
      Buys the cheapest available gift in your chosen market and instantly relists it for a higher price, all through a Terminal User Interface (TUI).
     <br />
-    <a href="https://github.com/sinrazed/telegram-gift-sniper"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raidcord/telegram-gift-sniper"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sinrazed/telegram-gift-sniper">View Demo</a>
+    <a href="https://github.com/raidcord/telegram-gift-sniper">View Demo</a>
     ·
-    <a href="https://github.com/sinrazed/telegram-gift-sniper/issues">Report Bug</a>
+    <a href="https://github.com/raidcord/telegram-gift-sniper/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sinrazed/telegram-gift-sniper/issues">Request Feature</a>
+    <a href="https://github.com/raidcord/telegram-gift-sniper/issues">Request Feature</a>
   </p>
 </div>
 # telegram-gift-sniper
@@ -52,7 +52,7 @@ Efficiently snipe gifts on Telegram markets and relist them for profit, featurin
 
 1.  Download the repository or clone using:
     ```sh
-    git clone https://github.com/sinrazed/telegram-gift-sniper.git
+    git clone https://github.com/raidcord/telegram-gift-sniper.git
     ```
 2.  Ensure you have [Node.js](https://nodejs.org/) (version 18+ recommended) installed.
 3.  Run the `setup.bat` file (for Windows).
@@ -66,7 +66,7 @@ Efficiently snipe gifts on Telegram markets and relist them for profit, featurin
 1.  Open your terminal.
 2.  Clone the repository:
     ```sh
-    git clone https://github.com/sinrazed/telegram-gift-sniper.git
+    git clone https://github.com/raidcord/telegram-gift-sniper.git
     ```
     *or download the ZIP and extract it.*
 3.  Navigate to the project directory:
@@ -108,14 +108,14 @@ Ensure your system meets these prerequisites:
 7.  **Runtime Configuration:** Prompts for and manages essential settings such as Telegram API ID, API Hash, and spending thresholds.
 8.  **Spending Controls:** Define minimum and maximum amounts (e.g., TON or Stars, depending on market requirements) for purchasing gifts.
 
-> **Note:** As of May 9th, 2025 (09/05/2025), telegram-gift-sniper is designed to be functional with current Telegram API and supported market platform interactions. However, APIs and platform functionalities can change rapidly, potentially requiring updates to this tool to maintain functionality. This project interacts with the Telegram API, often using user account credentials, which carries inherent risks including, but not limited to, account restrictions or bans by Telegram or market platforms. Always use such tools responsibly and be aware of the terms of service for any platform you interact with. Remember, sharing knowledge benefits everyone; please provide credit if you find our work valuable or adapt it.
+> **Note:** As of December 18th, 2025 (18/12/2025), telegram-gift-sniper is designed to be functional with current Telegram API and supported market platform interactions. However, APIs and platform functionalities can change rapidly, potentially requiring updates to this tool to maintain functionality. This project interacts with the Telegram API, often using user account credentials, which carries inherent risks including, but not limited to, account restrictions or bans by Telegram or market platforms. Always use such tools responsibly and be aware of the terms of service for any platform you interact with. Remember, sharing knowledge benefits everyone; please provide credit if you find our work valuable or adapt it.
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/sinrazed/telegram-gift-sniper.svg?style=for-the-badge
-[contributors-url]: https://github.com/sinrazed/telegram-gift-sniper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sinrazed/telegram-gift-sniper.svg?style=for-the-badge
-[forks-url]: https://github.com/sinrazed/telegram-gift-sniper/network/members
-[stars-shield]: https://img.shields.io/github/stars/sinrazed/telegram-gift-sniper.svg?style=for-the-badge
-[stars-url]: https://github.com/sinrazed/telegram-gift-sniper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sinrazed/telegram-gift-sniper.svg?style=for-the-badge
-[issues-url]: https://github.com/sinrazed/telegram-gift-sniper/issues
+[contributors-shield]: https://img.shields.io/github/contributors/raidcord/telegram-gift-sniper.svg?style=for-the-badge
+[contributors-url]: https://github.com/raidcord/telegram-gift-sniper/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/raidcord/telegram-gift-sniper.svg?style=for-the-badge
+[forks-url]: https://github.com/raidcord/telegram-gift-sniper/network/members
+[stars-shield]: https://img.shields.io/github/stars/raidcord/telegram-gift-sniper.svg?style=for-the-badge
+[stars-url]: https://github.com/raidcord/telegram-gift-sniper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/raidcord/telegram-gift-sniper.svg?style=for-the-badge
+[issues-url]: https://github.com/raidcord/telegram-gift-sniper/issues

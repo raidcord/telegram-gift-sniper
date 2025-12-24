@@ -24,7 +24,7 @@
     <a href="https://github.com/raidcord/telegram-gift-sniper/issues">Request Feature</a>
   </p>
 </div>
-# telegram-gift-sniper
+# telegram-gift-sniper 
 
 Efficiently snipe gifts on Telegram markets and relist them for profit, featuring an interactive command-line interface for easy operation.
 
@@ -119,4 +119,5 @@ Ensure your system meets these prerequisites:
 [stars-url]: https://github.com/raidcord/telegram-gift-sniper/stargazers
 [issues-shield]: https://img.shields.io/github/issues/raidcord/telegram-gift-sniper.svg?style=for-the-badge
 [issues-url]: https://github.com/raidcord/telegram-gift-sniper/issues
+
 

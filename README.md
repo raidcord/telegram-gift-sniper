@@ -9,6 +9,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> 
 
+
+
   <h3 align="center">telegram-gift-sniper</h3>
 
   <p align="center">
@@ -119,5 +121,6 @@ Ensure your system meets these prerequisites:
 [stars-url]: https://github.com/raidcord/telegram-gift-sniper/stargazers
 [issues-shield]: https://img.shields.io/github/issues/raidcord/telegram-gift-sniper.svg?style=for-the-badge
 [issues-url]: https://github.com/raidcord/telegram-gift-sniper/issues
+
 
 

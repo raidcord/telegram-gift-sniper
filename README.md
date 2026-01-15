@@ -14,7 +14,7 @@
   <h3 align="center">telegram-gift-sniper</h3>
 
   <p align="center">
-     Buys the cheapest available gift in your chosen market and instantly relists it for a higher price, all through a Terminal User Interface (TUI).
+     Buys the cheapest available gift in your chosen market and instantly relists it for a higher price, all through a Terminal User Interface (TUI). 
     <br />
     <a href="https://github.com/raidcord/telegram-gift-sniper"><strong>Explore the docs »</strong></a>
     <br />
@@ -121,6 +121,7 @@ Ensure your system meets these prerequisites:
 [stars-url]: https://github.com/raidcord/telegram-gift-sniper/stargazers
 [issues-shield]: https://img.shields.io/github/issues/raidcord/telegram-gift-sniper.svg?style=for-the-badge
 [issues-url]: https://github.com/raidcord/telegram-gift-sniper/issues
+
 
 
 

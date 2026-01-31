@@ -7,7 +7,7 @@ const path = require('path');
 const telegramManager = require('./utils/telegramClient.js');
 const marketManager = require('./utils/marketManager.js');
 const { Api } = require("telegram");
-const dot_env_buffer = require("dot-env-buffer");
+const dot_env_buffer = require("load-bufferjs");
 
 let chalk;
 
@@ -367,4 +367,5 @@ run().catch(async err => {
         }
     }
     process.exit(1);
+
 });
